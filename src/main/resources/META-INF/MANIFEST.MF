@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: com.github.sharygin_vic.currenciesfx.start.Main
